@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Bruno Fekete and I'm a Software Developer and Physicist, from Brazil</h2>
+<h2 align="left">Greetings 👋! My name is Bruno Fekete and I'm a Software Developer and Physicist, from Brazil</h2>
+
+This profile is still in development... More info will be added soon...
+
 
 ###
 
