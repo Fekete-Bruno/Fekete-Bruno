@@ -1,6 +1,5 @@
 <h2 align="left">Greetings 👋! My name is Bruno Fekete and I'm a Software Developer and Physicist, from Brazil 🪐</h2>
 
-This profile is still in development... More info will be added soon...
 <h3>About me:</h3>
 <ul>
   <li>🎓 Bachelor of Science in Physics by Universidade de São Paulo (USP)</li>
