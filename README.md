@@ -10,13 +10,6 @@ This profile is still in development... More info will be added soon...
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=Fekete-Bruno" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=Fekete-Bruno" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="300" src="https://i.imgur.com/lg2Gm2U.gif"  />
 
 ###
