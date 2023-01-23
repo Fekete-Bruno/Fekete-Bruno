@@ -3,7 +3,8 @@
 <h3>About me:</h3>
 <ul>
   <li>🎓 Bachelor of Science in Physics by Universidade de São Paulo (USP)</li>
-  <li>💻 Currently studying Software Development at Driven!</li>
+  <li>📖 Fluent in Portuguese and English, planning on learning French</li>
+  <li>💻 Studied Software Development and Full Stack Web Development at Driven!</li>
   <li>🎲 Love playing board games and video games!</li>
 </ul>
 
